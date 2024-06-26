@@ -1,14 +1,11 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"files.defaultLanguage": "c",
-		"files.associations": {
-			".clangd": "yaml"
-		},
-		"editor.tabSize": 2
-	}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.defaultLanguage": "c",
+    "editor.tabSize": 2
+  }
 }
